@@ -1,0 +1,11 @@
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\SessionConfig.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\SecurityConfig.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\client\book\BooksClient.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\client\rating\Rating.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\AuthenticationController.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\GatewayApplication.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\client\rating\RatingsClient.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\controller\CombinedController.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\filter\SessionSavingPreFilter.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\ErrorPageConfig.java
+D:\SDA\tutorials\spring-cloud-modules\spring-cloud-bootstrap\gateway\src\main\java\com\baeldung\spring\cloud\bootstrap\gateway\client\book\Book.java

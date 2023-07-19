@@ -1,0 +1,4 @@
+com\baeldung\orderservice\client\OrderClient.class
+com\baeldung\orderservice\client\OrderDTO.class
+com\baeldung\orderservice\client\OrderClientImpl.class
+com\baeldung\orderservice\client\OrderResponse.class

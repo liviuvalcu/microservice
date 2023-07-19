@@ -1,0 +1,11 @@
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\Rating.class
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\RatingRepository.class
+com\baeldung\spring\cloud\bootstrap\svcrating\DataLoader.class
+com\baeldung\spring\cloud\bootstrap\svcrating\RatingServiceApplication.class
+com\baeldung\spring\cloud\bootstrap\svcrating\CookieConfig.class
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\RatingNotFoundException.class
+com\baeldung\spring\cloud\bootstrap\svcrating\SecurityConfig.class
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\RatingService.class
+com\baeldung\spring\cloud\bootstrap\svcrating\SessionConfig.class
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\RatingController.class
+com\baeldung\spring\cloud\bootstrap\svcrating\rating\RatingCacheRepository.class

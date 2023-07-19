@@ -1,0 +1,11 @@
+com\baeldung\spring\cloud\bootstrap\gateway\client\book\Book.class
+com\baeldung\spring\cloud\bootstrap\gateway\SecurityConfig.class
+com\baeldung\spring\cloud\bootstrap\gateway\AuthenticationController.class
+com\baeldung\spring\cloud\bootstrap\gateway\SessionConfig.class
+com\baeldung\spring\cloud\bootstrap\gateway\client\rating\RatingsClient.class
+com\baeldung\spring\cloud\bootstrap\gateway\client\book\BooksClient.class
+com\baeldung\spring\cloud\bootstrap\gateway\controller\CombinedController.class
+com\baeldung\spring\cloud\bootstrap\gateway\ErrorPageConfig.class
+com\baeldung\spring\cloud\bootstrap\gateway\GatewayApplication.class
+com\baeldung\spring\cloud\bootstrap\gateway\filter\SessionSavingPreFilter.class
+com\baeldung\spring\cloud\bootstrap\gateway\client\rating\Rating.class

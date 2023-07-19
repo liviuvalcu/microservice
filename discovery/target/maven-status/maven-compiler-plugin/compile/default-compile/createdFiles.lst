@@ -1,0 +1,4 @@
+com\baeldung\spring\cloud\bootstrap\discovery\SecurityConfig$AdminSecurityConfig.class
+com\baeldung\spring\cloud\bootstrap\discovery\SecurityConfig.class
+com\baeldung\spring\cloud\bootstrap\discovery\DiscoveryApplication.class
+com\baeldung\spring\cloud\bootstrap\discovery\SessionConfig.class
